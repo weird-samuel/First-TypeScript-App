@@ -1,5 +1,5 @@
 # First-TypeScript-App
-![My Blog App](https://github.com/weird-samuel/First-TypeScript-App/)
+(https://github.com/weird-samuel/First-TypeScript-App/)
 
 ## Technologies Used:
 - Typescript
